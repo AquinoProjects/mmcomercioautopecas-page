@@ -304,17 +304,6 @@ body .full-width {
     cursor: default;
 }
 
-/*.grid h3::before {
-    counter-increment: grid-counter;
-    content: counter(grid-counter);
-    position: absolute;
-    font-size: 6rem;
-    font-style: italic;
-    top: -2rem;
-    left: -0.5rem;
-    transform: rotate(5deg);
-}*/
-
 .gallery-img {
     width: 100%;
     max-width: 36rem;
@@ -533,6 +522,7 @@ body .full-width {
     }
     .logo-device img {
        height: 100%;
+       padding: 1.3rem;
     }
     .container-ink {
         display: none;
@@ -643,7 +633,6 @@ body .full-width {
     }
 }
 
-
 /*slide*/
 
 * {box-sizing:border-box}
@@ -653,7 +642,7 @@ body .full-width {
   max-width: 1200px;
   position: relative;
   margin: auto;
-  padding-top: 8.5rem;
+  padding-top: 10.7rem;
 }
 
 /* Hide the images by default */
