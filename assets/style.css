@@ -652,6 +652,9 @@ body .full-width {
     display: flex;
     transition: all ease .5s;
 }
+.carousel-inner img {
+    width: 100%;
+}
 
 .carousel-item{
     flex: 1;
@@ -683,6 +686,7 @@ body .full-width {
 }
 
 .carousel-controls .next{
+    margin: 1px solid var(--primary-color);
     display: inline-block;
     height: 32px;
     width: 32px;
