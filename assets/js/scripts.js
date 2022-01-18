@@ -26,9 +26,10 @@ $(function () {
     });
 });
 
-//Jogar ano atual para o footer
-document.getElementById("year").innerHTML = new Date().getFullYear();
 
+//Jogar ano atual para o footer
+
+document.getElementById("year").innerHTML = new Date().getFullYear();
 
 //Carousel banners
 let carousel = document.querySelector('.carousel');
