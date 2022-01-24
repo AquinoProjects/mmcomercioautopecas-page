@@ -529,6 +529,9 @@ body .full-width {
         height: 55px;
         margin-top: 2.5rem;
       }
+      #btn-ml {
+        cursor: pointer;
+      }
 
       .container-buttons-top-device .btn a
 {
