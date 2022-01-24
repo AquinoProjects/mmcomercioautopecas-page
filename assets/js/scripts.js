@@ -59,13 +59,13 @@ let interval = 5000;
 let time;
 
 
-$(document).ready(function(){
+/*$(document).ready(function(){
     $(".btn").click(function(){
         setTimeout(function(){ 
           $("#btn-ml").attr("href", "https://lista.mercadolivre.com.br/_CustId_26266979")
-      },1000);
+      },0010);
     });
-  });
+  });*/
 
 //Init carousel
 carouselInner.style.minWidth = (totalSlides * 100) + '%';
