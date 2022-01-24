@@ -509,12 +509,12 @@ body .full-width {
     margin-right:-10px;
 }
 
-.logo-device, .content-buttons-top-device, .close-menu {
+.logo-device, .container-buttons-top-device, .close-menu {
     display: none;
 }
-
 /*https://codepen.io/ablimits/pen/eYEGZrq*/
 @media (max-width: 800px) {
+    
     .container-buttons-top-device {
         height: 8rem;
         width: 100%;
@@ -527,11 +527,12 @@ body .full-width {
         position:relative;
         width: 155px;
         height: 55px;
-        margin:20px;
+        margin-top: 2.5rem;
       }
 
       .container-buttons-top-device .btn a
 {
+    text-align: center;
   position:absolute;
   top:0;
   left:0;
@@ -559,7 +560,8 @@ body .full-width {
 
 .container-buttons-top-device .btn:hover a
 {
-  letter-spacing: 3px;
+    color: var(--primary-color);
+    letter-spacing: 3px;
 }
 
 .container-buttons-top-device .btn a::before
@@ -612,7 +614,7 @@ body .full-width {
   top: -5px;
   width:30px;
   height:10px;
-  background: #f00;
+  background: #f7e000;
   border-radius: 10px;
   transition: 0.5s;
   transition-delay: 0s;
@@ -629,11 +631,11 @@ body .full-width {
 .container-buttons-top-device .btn:nth-child(1)::before,
 .container-buttons-top-device .btn:nth-child(1)::after
 {
-  background: #ff1f71;
-  box-shadow: 0 0 5px #ff1f71,
-  0 0 15px #ff1f71,
-  0 0 30px #ff1f71,
-  0 0 60px #ff1f71;
+  background: #f7e000;
+  box-shadow: 0 0 5px #f7e000,
+  0 0 15px #f7e000,
+  0 0 30px #f7e000,
+  0 0 60px #f7e000;
 }
 
 .container-buttons-top-device .btn:nth-child(2)::before,
@@ -655,9 +657,8 @@ body .full-width {
   0 0 30px #1eff45,
   0 0 60px #1eff45;
 }
-    /**/
 
-
+/**/
     #home {
         padding-top: 0;
     }
