@@ -529,7 +529,7 @@ body .full-width {
         height: 55px;
         margin-top: 2.5rem;
       }
-      #btn-ml {
+      .btn {
         cursor: pointer;
       }
 
@@ -565,6 +565,7 @@ body .full-width {
 {
     color: var(--primary-color);
     letter-spacing: 3px;
+    font-size: 16px;
 }
 
 .container-buttons-top-device .btn a::before
