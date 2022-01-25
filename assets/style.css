@@ -551,8 +551,8 @@ body .full-width {
   border-radius: 30px;
   color: #fff;
   z-index: 1;
-  font-size: 400;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 300px;
   letter-spacing: 1px;
   text-decoration: none;
   overflow: hidden;
@@ -879,3 +879,12 @@ body .full-width {
     opacity: 1;
 }
 
+@media (max-width: 400px) {
+
+    .container-buttons-top-device .btn {
+        width: 130px;
+    }
+    .container-buttons-top-device .btn a {
+        font-size: 15px;
+    }
+}
