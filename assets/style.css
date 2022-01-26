@@ -175,6 +175,7 @@ body .full-width {
 .menu-content h1 a img {
     margin-top: 1rem;
     width: 100%;
+    z-index: 3;
    
 }
 .menu-content h1 {
