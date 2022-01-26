@@ -517,7 +517,7 @@ body .full-width {
 @media (max-width: 800px) {
         .menu-content h1 a img {
         margin-top: 1rem;
-        width: 75%; 
+        width: 150%; 
     }
     
     .container-buttons-top-device {
