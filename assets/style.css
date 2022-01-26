@@ -515,6 +515,10 @@ body .full-width {
 }
 /*https://codepen.io/ablimits/pen/eYEGZrq*/
 @media (max-width: 800px) {
+        .menu-content h1 a img {
+        margin-top: 1rem;
+        width: 75%; 
+    }
     
     .container-buttons-top-device {
         height: 8rem;
