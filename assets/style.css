@@ -174,8 +174,7 @@ body .full-width {
 }
 .menu-content h1 a img {
     margin-top: 1rem;
-    width: 100%;
-    z-index: 3;
+    width: 24%;
    
 }
 .menu-content h1 {
@@ -515,10 +514,14 @@ body .full-width {
 }
 /*https://codepen.io/ablimits/pen/eYEGZrq*/
 @media (max-width: 800px) {
+    .menu-content h1 a img {
+        width: 30%;
+       
+    }
     
     .container-buttons-top-device {
         height: 8rem;
-        width: 100%;
+        width: 50%;
         /*background: #34af23;*/
         display: flex;
         flex-wrap:wrap;
@@ -716,6 +719,7 @@ body .full-width {
         flex-direction: column;
         justify-content: center;
     }
+
 
     .menu-content {
         height: 100vh;
