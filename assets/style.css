@@ -525,7 +525,9 @@ body .full-width {
         /*background: #34af23;*/
         display: flex;
         flex-wrap:wrap;
-  justify-content:space-around
+  justify-content:space-around;
+  margin: 0 auto;
+  
     }
     .container-buttons-top-device .btn {
         position:relative;
