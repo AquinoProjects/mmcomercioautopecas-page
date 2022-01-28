@@ -114,7 +114,7 @@ table th {
 }
 
 .white-bg {
-    background: var(--white-color);
+   background: var(--white-color);
     color: var(--primary-color);
 }
 
@@ -608,7 +608,7 @@ body .full-width {
     background: linear-gradient(to left, rgba(255,255,255,0.15),
     transparent);
     transform: skewX(45deg) translateX(0);
-    transition: 0.1s;
+    transition: 0.4s;
 }
 
 .container-buttons-top-device .btn:hover a::before {
@@ -648,7 +648,7 @@ height:10px;
 background: #f7e000;
 border-radius: 10px;
 transition: 0.4s;
-transition-delay: 0.1s;
+transition-delay: 0.5s;
 }
 
 .container-buttons-top-device .btn:hover::after
@@ -657,7 +657,7 @@ top: 0;
 height: 50%;
 width: 80%;
 border-radius: 30px;
-transition-delay: 0.5s;
+transition-delay: 0.4s;
 }
 
 .container-buttons-top-device .btn:nth-child(1)::before,
