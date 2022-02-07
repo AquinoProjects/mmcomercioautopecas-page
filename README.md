@@ -9,7 +9,7 @@
 - [Screenshots do Projeto](#camera_flash-screenshots-do-projeto)
 - [Sobre o Projeto](#monocle_face-sobre-o-projeto)
 - [Tecnologias](#globe_with_meridians-tecnologias-usadas)
-- [Features](#triangular_flag_on_post-features)
+- [Recursos](#triangular_flag_on_post-recursos)
 - [Instalação](#question-como-instalar-e-executar-o-projeto)
 - [Autor](#closed_book-autor)
 
@@ -22,6 +22,7 @@
 
 ![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/mobi.png)
 <br />
+
 ![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
 <br />
 
@@ -47,7 +48,7 @@ Este projeto tem o objetivo de divulgar e facilitar o contato do usuário com a 
 
 ---
 
-# :triangular_flag_on_post: Features
+# :triangular_flag_on_post: Recursos
 
 - [x] Carousel com banners.
 
@@ -84,7 +85,7 @@ git clone https://github.com/AquinoProjects/mmcomercioautopecas-page.git
 ```
 
 2. Depois de concluído, é só acessar o diretório do projeto e abrir a pasta clonada<br />
-em seu editor de códigos favorito e fazer as suas alterações! xD:
+em seu editor de códigos favorito e fazer as suas alterações! :D
 
 ```bash
 cd mmcomercioautopecas-page/
