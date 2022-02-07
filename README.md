@@ -9,19 +9,19 @@
 - [Screenshots do Projeto](#camera_flash-screenshots-do-projeto)
 - [Sobre o Projeto](#monocle_face-sobre-o-projeto)
 - [Tecnologias](#globe_with_meridians-tecnologias-usadas)
-- [Recursos](#triangular_flag_on_post-recursos)
+- [Features](#triangular_flag_on_post-features)
 - [Instalação](#question-como-instalar-e-executar-o-projeto)
 - [Autor](#closed_book-autor)
 
 <br />
-projeto
+
 ---
 
 # :camera_flash: Screenshots do Projeto
 
-![Imagem do projeto](https://srv718.main-hosting.eu:7443/files/img-mm/desk.png)
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
 
-![Imagem do projeto](https://srv718.main-hosting.eu:7443/files/img-mm/mobi.png)
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/mobi.png)
 
 <br />
 
@@ -47,7 +47,7 @@ Este projeto tem o objetivo de divulgar e facilitar o contato do usuário com a 
 
 ---
 
-# :triangular_flag_on_post: Recursos
+# :triangular_flag_on_post: Features
 
 - [x] Carousel com banners.
 
