@@ -588,7 +588,7 @@ body .full-width {
     letter-spacing: 1px;
     text-decoration: none;
     overflow: hidden;
-    transition: 0.1s;
+    transition: 0.3s;
     backdrop-filter: blur(15px);
 }
 
@@ -608,7 +608,7 @@ body .full-width {
     background: linear-gradient(to left, rgba(255,255,255,0.15),
     transparent);
     transform: skewX(45deg) translateX(0);
-    transition: 0.4s;
+    transition: 0.3s;
 }
 
 .container-buttons-top-device .btn:hover a::before {
@@ -626,7 +626,7 @@ body .full-width {
     background: #f00;
     border-radius: 10px;
     transition: 0.2s;
-    transition-delay: 0s;
+    transition-delay: 0.2s;
 }
 
 .container-buttons-top-device .btn:hover::before {
@@ -634,7 +634,7 @@ body .full-width {
     height: 50%;
     width: 80%;
     border-radius: 30px;
-    transition-delay: 0.5s;
+    transition-delay: 0.3s;
 }
 
 .container-buttons-top-device .btn::after {
@@ -647,8 +647,8 @@ width:30px;
 height:10px;
 background: #f7e000;
 border-radius: 10px;
-transition: 0.4s;
-transition-delay: 0.5s;
+transition: 0.3s;
+transition-delay: 0.3s;
 }
 
 .container-buttons-top-device .btn:hover::after
@@ -657,7 +657,7 @@ top: 0;
 height: 50%;
 width: 80%;
 border-radius: 30px;
-transition-delay: 0.4s;
+transition-delay: 0.3s;
 }
 
 .container-buttons-top-device .btn:nth-child(1)::before,
