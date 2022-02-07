@@ -19,10 +19,10 @@
 
 # :camera_flash: Screenshots do Projeto
 
-![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
 
 ![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/mobi.png)
-
+<br />
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
 <br />
 
 ---
