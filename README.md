@@ -18,12 +18,11 @@
 ---
 
 # :camera_flash: Screenshots do Projeto
-
-
-![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/mobi.png)
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
 <br />
 
-![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/desk.png)
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/Captura%20de%20tela%20de%202022-02-14%2018-21-03.png)
+![Imagem do projeto](https://github.com/AquinoProjects/all-imgs/blob/main/Captura%20de%20tela%20de%202022-02-14%2018-24-11.png)
 <br />
 
 ---
