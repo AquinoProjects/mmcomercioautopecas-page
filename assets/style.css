@@ -116,6 +116,12 @@ table th {
 .white-bg {
    background: var(--white-color);
     color: var(--primary-color);
+
+}
+
+.white-second-bg {
+    background-image: url('img/textura-bg.png');
+    background-repeat: repeat; 
 }
 
 .main-content{
@@ -269,10 +275,6 @@ body .full-width {
 .grid-one-content article {
   padding: 1rem;
 }
-.grid-one-content article:hover {
-    border: 1px solid var(--light-gray-color);
-    
-}
 
 .grid-main-heading{
     margin-bottom: 1rem;
@@ -290,8 +292,8 @@ body .full-width {
     justify-content: center;
 }
 .grid-main-content-bottom {
-    background-color: #5a5a5a;
-    height: 5px;
+    background-color: #02578a;
+    height: 4px;
     width: 50%;
     border-radius: 5px;
     margin: 27px 0px 18px 10px
@@ -691,6 +693,20 @@ box-shadow: 0 0 5px #1eff45,
 }
 /*https://codepen.io/ablimits/pen/eYEGZrq*/
 @media (max-width: 800px) {
+
+    html {
+        font-size: 50.5%;
+      
+    }
+    .grid-main-heading,  .grid-description, .grid p,  .grid h3, .form-grid legend {
+        text-align: center;
+    }
+
+    .intro-text-content {
+        margin-left: 2.5rem;
+        align-items: center;
+    }
+    
 
     .virtual-store-container {
         flex-direction: column;
