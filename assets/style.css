@@ -324,8 +324,8 @@ body .full-width {
 
 .products-img {
     width: 100%;
-    max-width: 40rem;
-    max-height: 40rem;
+    max-width: 42rem;
+    max-height: 42rem;
     overflow: hidden;
     display: flex;
     align-items: center;
