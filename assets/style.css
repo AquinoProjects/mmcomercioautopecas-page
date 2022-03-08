@@ -329,11 +329,11 @@ body .full-width {
     display: flex;
     align-items: center;
     flex-direction: column;
+    justify-content: flex-end;
 }
 
 .products-img img {
     transition: all 300ms ease-in-out;
-    width: 100%;
 }
 
 .products-img img:hover {
