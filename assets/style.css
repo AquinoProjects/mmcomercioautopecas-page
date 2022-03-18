@@ -856,6 +856,20 @@ box-shadow: 0 0 5px #1eff45,
         margin-bottom: -9px;
         opacity: 0.6;
     }
+
+    .footer-content{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        counter-reset: grid-counter;
+        align-items: center;
+    }
+    .footer .footer-content p, .footer .footer-content a {
+        margin:0 !important;
+        padding: 0 !important;
+    }
+    .footer a {
+        color: var(--primary-color);
+    }
 }
 
 .carousel{
