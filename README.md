@@ -71,7 +71,7 @@ Este projeto tem o objetivo de divulgar e facilitar o contato do usuário com a 
 
 ## Acessando direto pelo site:
 
-- Você pode clicar nesse [link](https://mmcomercioautopecas.com.br/) e acessar a aplicação que está hospedada na hostinger.
+- Você pode clicar nesse [link](https://mmcomercioautopecas.com.br/).
 
 <br />
 
