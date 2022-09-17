@@ -80,14 +80,14 @@ Este projeto tem o objetivo de divulgar e facilitar o contato do usuário com a 
 1. Abra o terminal na pasta desejada para clonar o repositório e execute o comando:
 
 ```bash
-git clone https://github.com/AquinoProjects/mmcomercioautopecas-page.git
+git clone https://github.com/AquinoProjects/mmcomercioautopecas_page.git
 ```
 
 2. Depois de concluído, é só acessar o diretório do projeto e abrir a pasta clonada<br />
 em seu editor de códigos favorito e fazer as suas alterações! :D
 
 ```bash
-cd mmcomercioautopecas-page/
+cd mmcomercioautopecas_page/
 ```
 
 <br />
@@ -96,6 +96,6 @@ cd mmcomercioautopecas-page/
 
 # :closed_book: Autor
 
-Feito por [Daniel Aquino](https://beacons.ai/d.aquino).
+Feito por [Daniel Aquino](https://www.aquinoweb.site/).
 
 ### :link: LinkedIn: https://www.linkedin.com/in/daniel-aquino-dev
