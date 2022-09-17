@@ -98,4 +98,4 @@ cd mmcomercioautopecas-page/
 
 Feito por [Daniel Aquino](https://beacons.ai/d.aquino).
 
-### :link: LinkedIn: https://www.linkedin.com/in/daniel-aquino-b03958183
+### :link: LinkedIn: https://www.linkedin.com/in/daniel-aquino-dev
