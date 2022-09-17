@@ -69,26 +69,11 @@ Este projeto tem o objetivo de divulgar e facilitar o contato do usuário com a 
 
 <br />
 
-## Acessando direto pelo site:
 
-- Você pode clicar nesse [link](https://mmcomercioautopecas.com.br/).
+## Não há necessidade de instalação:
 
-<br />
+- Clique no [link da página](https://mmcomercioautopecas.com.br/) para acessar.
 
-## Executar na máquina local:
-
-1. Abra o terminal na pasta desejada para clonar o repositório e execute o comando:
-
-```bash
-git clone https://github.com/AquinoProjects/mmcomercioautopecas_page.git
-```
-
-2. Depois de concluído, é só acessar o diretório do projeto e abrir a pasta clonada<br />
-em seu editor de códigos favorito e fazer as suas alterações! :D
-
-```bash
-cd mmcomercioautopecas_page/
-```
 
 <br />
 
